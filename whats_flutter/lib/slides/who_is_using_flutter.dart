@@ -57,7 +57,6 @@ class WhoIsUsingFlutter extends StatelessWidget {
                 'bmw.png',
                 width: 500,
                 height: 500,
-                scale: 4.0,
               ),
             ],
           ),
