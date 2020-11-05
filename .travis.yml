@@ -16,3 +16,5 @@ deploy:
   github_token: $GITHUB_TOKEN
   keep_history: true
   local_dir: flutter_from_zero_to_hero/whats_flutter/build/web
+  on:
+      all_branches: true
