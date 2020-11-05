@@ -1,0 +1,46 @@
+name: whats_flutter
+description: A Flutter Web App to let users know what Flutter is!
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  google_fonts: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - android.png
+     - fuchsia.png
+     - dart.png
+     - ios.png
+     - hummingbird.png
+     - macos.png
+     - skia.png
+     - tux.png
+     - windows.png
+     - flutterlayers.png
+     - dart_code_example.png
+     - flutter_xbox.png
+     - alibaba.png
+     - bmw.png
+     - ebay.png
+     - google.png
+     - tencent.png
+     - sony.png
