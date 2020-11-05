@@ -54,7 +54,7 @@ class WhoIsUsingFlutter extends StatelessWidget {
                 height: 500,
               ),
               Image.asset(
-                'bmw.png',
+                'bmw_logo.png',
                 width: 500,
                 height: 500,
               ),

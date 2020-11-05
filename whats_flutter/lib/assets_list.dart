@@ -16,5 +16,5 @@ const List<String> imageAssets = [
   'tencent.png',
   'sony.png',
   'ebay.png',
-  'bmw.png',
+  'bmw_logo.png',
 ];
