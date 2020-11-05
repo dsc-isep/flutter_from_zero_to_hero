@@ -15,6 +15,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
-  local_dir: build/web
+  local_dir: whats_flutter/build/web
   on:
       all_branches: true
